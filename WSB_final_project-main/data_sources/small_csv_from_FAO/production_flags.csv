@@ -1,0 +1,8 @@
+﻿"Flag","Flags"
+"A","Aggregate, may include official, semi-official, estimated or calculated data"
+"Fc","Calculated data"
+"M","Data not available"
+"Im","FAO data based on imputation methodology"
+"F","FAO estimate"
+"","Official data"
+"*","Unofficial figure"
